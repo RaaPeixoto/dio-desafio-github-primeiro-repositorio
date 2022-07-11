@@ -4,16 +4,16 @@
 
 ## ❓ O que é Git ? 
 
-Sistema de **controle de versão **,  usado para controlar o **histórico de alterações** de arquivos.
+Sistema de **controle de versão**,  usado para controlar o **histórico de alterações** de arquivos.
 
 ## ❗Importantes definições
 
-- ##### **Repositórios: **
+- ##### **Repositórios:**
 
   é um diretório onde você  **armazena** os arquivos do seu projeto(códigos, imagens, áudios, vídeos, etc). Ele pode ficar armazenado um repositório local (seu computador) ou armazenado em um repositório remoto (GitHub, BitBucket ou GitLab).
   ​
 
-- ##### **Branches: **
+- ##### **Branches:**
 
   Branch significa “ramo”, ou seja, uma **ramificação do seu código.**
   Exemplo: você tem o seu código que já está funcionando em produção e precisa desenvolver uma nova funcionalidade (“feature”). Mas você não pode mexer direto no código em produção. Para isso, você cria uma ramificação do seu código, uma branch, em que você pega o estado atual daquele código e cria um novo ambiente para desenvolver a nova feature a partir dali. Dessa forma, você não altera a versão principal do seu código, consegue desenvolver sua funcionalidade com segurança, e quando esse código estiver funcionando, você poderá colocar ele na principal (ou fazer o merge, que falaremos mais adiante nesse post).
